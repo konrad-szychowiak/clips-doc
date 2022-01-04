@@ -1,0 +1,11 @@
+## for now ##
+dist/
+pnpm-lock.yaml
+package.json
+rollup.config.js
+##
+
+.git
+.idea
+node_modules
+build
